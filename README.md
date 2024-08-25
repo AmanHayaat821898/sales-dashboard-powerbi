@@ -23,6 +23,8 @@ The Managing Director **Ravi Sharma** is facing difficulty in effectively tracki
 
 ## Dashboard Overview:
 ![page1](https://github.com/user-attachments/assets/f5c0382d-8c36-4553-b97e-ce14da119677)
+![page2](https://github.com/user-attachments/assets/c863c60f-fb5e-4c04-a9bb-8c949da31930)
+![page3](https://github.com/user-attachments/assets/4b6f2db0-f034-46fe-b8ef-84ab1e275a79)
 
 - **Revenue Analysis**: Analyzed revenue distribution across different product lines and regions.
 - **Customer Segmentation**: Identified key customer segments contributing to overall sales.
