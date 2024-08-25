@@ -41,12 +41,6 @@ To run this project locally, ensure you have the following installed:
 2. Python 3.x
 3. Power BI Desktop
 
-### Steps:
-1. Clone the repository: `git clone https://github.com/yourusername/Sales_Analytics_Project.git`
-2. Import the SQL schema and data from the `/data` folder into your SQL environment.
-3. Follow the `analysis.ipynb` notebook for data preprocessing and analysis.
-4. Open the Power BI report file `/dashboard/Sales_Analytics.pbix` to explore the interactive dashboards.
-
 ## Future Enhancements:
 - Integrating **Machine Learning models** to predict future sales trends.
 - Expanding the dataset to include more features such as customer feedback and market competition data.
