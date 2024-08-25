@@ -1,6 +1,6 @@
 # Sales_Analytics_Project
 
-This repository contains my end-to-end data analytics project focused on gaining insights from sales data for a fictional company called **TechSphere Solutions**.
+This repository contains my end-to-end data analytics project focused on gaining insights from sales data for a company called **Atliq Technology**.
 
 # **Atliq Technology Sales Insights**
 ![hhh](https://github.com/user-attachments/assets/0d036328-3c58-4e0b-90b5-418044c4a0b6)
