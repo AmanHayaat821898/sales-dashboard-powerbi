@@ -22,7 +22,7 @@ The Managing Director **Ravi Sharma** is facing difficulty in effectively tracki
 - **Business Insights**: Derived insights into sales trends, profit margins, and customer behavior across different regions.
 
 ## Dashboard Overview:
-![Revenue Overview](https://example.com/revenue-overview-url)
+![page1](https://github.com/user-attachments/assets/f5c0382d-8c36-4553-b97e-ce14da119677)
 
 - **Revenue Analysis**: Analyzed revenue distribution across different product lines and regions.
 - **Customer Segmentation**: Identified key customer segments contributing to overall sales.
